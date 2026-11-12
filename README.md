@@ -14,13 +14,13 @@ DVGEN is an independent TON jetton concept inspired by the reported story of Pav
 
 ## Official circular logo
 
-![DVGEN circular logo](https://raw.githubusercontent.com/ilia144000/Durov-Genetics-DGEN/main/assets/branding/DVGEN.png)
+![DVGEN circular logo](https://raw.githubusercontent.com/ilia144000/Durov-Genetics-DVGEN/main/assets/branding/DVGEN.png)
 
 **Canonical logo file:** [`assets/branding/DVGEN.png`](assets/branding/DVGEN.png)
 
 **Direct PNG URL:**
 
-`https://raw.githubusercontent.com/ilia144000/Durov-Genetics-DGEN/main/assets/branding/DVGEN.png`
+`https://raw.githubusercontent.com/ilia144000/Durov-Genetics-DVGEN/main/assets/branding/DVGEN.png`
 
 ## Repository layout
 
