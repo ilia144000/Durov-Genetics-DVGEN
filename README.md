@@ -2,45 +2,46 @@
 
 **100 heirs. One legendary DNA. Infinite possibilities.**
 
-An independent TON jetton community concept inspired by the widely reported story of Pavel Durov's 100+ biological children, exploring digital legacy, genetics, and decentralized culture.
+DGEN is an independent TON jetton concept inspired by the reported story of Pavel Durov's 100+ biological children.
 
-## Project
+## Token information
 
-| Field | Value |
-| --- | --- |
-| Token name | Durov Genetics |
-| Symbol | DGEN |
-| Network | TON |
-| Jetton master address | Pending on-chain verification |
-| Decimals | Verify against deployed jetton; reference template uses 9 |
+- Name: Durov Genetics
+- Symbol: DGEN
+- Blockchain: TON
+- Decimals: 9 (reference metadata; verify against deployed jetton)
+- Jetton master address: Pending verified contract address
 
-## Repository structure
+## Official circular logo
+
+![DGEN circular logo](https://raw.githubusercontent.com/ilia144000/Durov-Genetics-DGEN/main/assets/branding/DGEN-circle-256.png)
+
+**Canonical logo file:** [`assets/branding/DGEN-circle-256.png`](assets/branding/DGEN-circle-256.png)
+
+**Direct PNG URL:**
+
+`https://raw.githubusercontent.com/ilia144000/Durov-Genetics-DGEN/main/assets/branding/DGEN-circle-256.png`
+
+## Repository layout
 
 ```text
 assets/
-  logo.png                # canonical 256x256 transparent token icon (upload pending)
-  branding/               # banners and additional image assets
+  branding/
+    DGEN-circle-256.png  # official token icon
 metadata/
-  jetton.example.json     # off-chain metadata template; not deployed
-contracts/                # verified jetton master references and documentation
+  jetton.example.json    # example metadata, not active on-chain metadata
+contracts/               # verified contract references when available
 integrations/
-  tonkeeper/              # wallet compatibility and listing notes
-  tonconnect/             # future TON Connect integration
-docs/                     # tokenomics, roadmap, FAQ, compliance
-community/                # verified project community links
+  tonkeeper/             # wallet documentation
+  tonconnect/            # future dApp integration
+docs/                    # project documentation
+community/               # community information
 ```
-
-## Official image path
-
-**`assets/logo.png`** is the canonical target for the token icon. Upload a transparent 256x256 PNG with exactly that filename.
-
-Raw image URL (available **only after** the image is committed):
-`https://raw.githubusercontent.com/ilia144000/Durov-Genetics-DGEN/main/assets/logo.png`
 
 ## Integration status
 
-The repository structure and example metadata exist. No jetton contract, Tonkeeper listing, wallet recognition, or dApp connection is claimed to have been verified or enabled by these files. To complete integration, publish real metadata and confirm the actual deployed token master address.
+The image and example metadata are hosted publicly. Tonkeeper verification, listing and metadata update on a deployed jetton are separate procedures. Updating GitHub does not automatically change on-chain metadata.
 
 ## Disclaimer
 
-DGEN is an independent creative project. It is **not affiliated with, endorsed by, or operated by Pavel Durov, Telegram, Tonkeeper, or TON Foundation**. References are thematic and imply no ownership of genetic material or official endorsement. This is not an investment promise.
+DGEN is independent and is not endorsed by or affiliated with Pavel Durov, Telegram, Tonkeeper or TON Foundation. No investment return is implied.
