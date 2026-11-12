@@ -14,20 +14,20 @@ DGEN is an independent TON jetton concept inspired by the reported story of Pave
 
 ## Official circular logo
 
-![DGEN circular logo](https://raw.githubusercontent.com/ilia144000/Durov-Genetics-DGEN/main/assets/branding/DGEN-circle-256.png)
+![DGEN circular logo](https://raw.githubusercontent.com/ilia144000/Durov-Genetics-DGEN/main/assets/branding/DGEN.png)
 
-**Canonical logo file:** [`assets/branding/DGEN-circle-256.png`](assets/branding/DGEN-circle-256.png)
+**Canonical logo file:** [`assets/branding/DGEN.png`](assets/branding/DGEN.png)
 
 **Direct PNG URL:**
 
-`https://raw.githubusercontent.com/ilia144000/Durov-Genetics-DGEN/main/assets/branding/DGEN-circle-256.png`
+`https://raw.githubusercontent.com/ilia144000/Durov-Genetics-DGEN/main/assets/branding/DGEN.png`
 
 ## Repository layout
 
 ```text
 assets/
   branding/
-    DGEN-circle-256.png  # official token icon
+    DGEN.png  # official token icon
 metadata/
   jetton.example.json    # example metadata, not active on-chain metadata
 contracts/               # verified contract references when available
