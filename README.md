@@ -1,33 +1,33 @@
-# Durov Genetics (DGEN)
+# Durov Genetics (DVGEN)
 
 **100 heirs. One legendary DNA. Infinite possibilities.**
 
-DGEN is an independent TON jetton concept inspired by the reported story of Pavel Durov's 100+ biological children.
+DVGEN is an independent TON jetton concept inspired by the reported story of Pavel Durov's 100+ biological children.
 
 ## Token information
 
 - Name: Durov Genetics
-- Symbol: DGEN
+- Symbol: DVGEN
 - Blockchain: TON
 - Decimals: 9 (reference metadata; verify against deployed jetton)
 - Jetton master address: Pending verified contract address
 
 ## Official circular logo
 
-![DGEN circular logo](https://raw.githubusercontent.com/ilia144000/Durov-Genetics-DGEN/main/assets/branding/DGEN.png)
+![DVGEN circular logo](https://raw.githubusercontent.com/ilia144000/Durov-Genetics-DGEN/main/assets/branding/DVGEN.png)
 
-**Canonical logo file:** [`assets/branding/DGEN.png`](assets/branding/DGEN.png)
+**Canonical logo file:** [`assets/branding/DVGEN.png`](assets/branding/DVGEN.png)
 
 **Direct PNG URL:**
 
-`https://raw.githubusercontent.com/ilia144000/Durov-Genetics-DGEN/main/assets/branding/DGEN.png`
+`https://raw.githubusercontent.com/ilia144000/Durov-Genetics-DGEN/main/assets/branding/DVGEN.png`
 
 ## Repository layout
 
 ```text
 assets/
   branding/
-    DGEN.png  # official token icon
+    DVGEN.png  # official token icon
 metadata/
   jetton.example.json    # example metadata, not active on-chain metadata
 contracts/               # verified contract references when available
@@ -44,4 +44,4 @@ The image and example metadata are hosted publicly. Tonkeeper verification, list
 
 ## Disclaimer
 
-DGEN is independent and is not endorsed by or affiliated with Pavel Durov, Telegram, Tonkeeper or TON Foundation. No investment return is implied.
+DVGEN is independent and is not endorsed by or affiliated with Pavel Durov, Telegram, Tonkeeper or TON Foundation. No investment return is implied.
