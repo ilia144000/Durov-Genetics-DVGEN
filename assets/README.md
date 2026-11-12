@@ -1,5 +1,9 @@
-# Brand Assets
+# DGEN Token Assets
 
-Place the canonical square transparent PNG token icon at **`assets/logo.png`** (256 × 256 pixels).
+The official DGEN icon is the circular transparent 256 × 256 PNG at [`branding/DGEN-circle-256.png`](branding/DGEN-circle-256.png).
 
-Do not rename or move this file after wallets and token metadata reference it. Optional larger images can go in `assets/branding/`.
+Official direct image URL:
+
+`https://raw.githubusercontent.com/ilia144000/Durov-Genetics-DGEN/main/assets/branding/DGEN-circle-256.png`
+
+No image is required at `assets/logo.png`.
